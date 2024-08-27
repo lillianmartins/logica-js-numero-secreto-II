@@ -15,7 +15,7 @@ Objetivo do jogo: o programa escolhe um número aleatório e o usuário deverá 
 
 ## Acesse o projeto
 Acesse o código do projeto [aqui](https://github.com/lillianmartins/logica-js-numero-secreto-II)
-ou jogue [aqui](logica-js-numero-secreto-ii.vercel.app) 
+ou jogue [aqui](https://logica-js-numero-secreto-ii.vercel.app/) 
 
 ## Mais informações sobre o curso
 Acesse [aqui](https://www.alura.com.br/curso-online-logica-programacao-funcoes-listas)
